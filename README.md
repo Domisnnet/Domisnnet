@@ -1,55 +1,53 @@
-## 👋 Bem-vindo(a) ao perfil do DomisDev!! 😁
-
-<a href="https://github.com/Domisnnet">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Domisnnet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domisnnet&layout=compact&langs_count=6&theme=tokyonight"/>
-</a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Domisnnet/seu-repo/main/assets/banner-dark.png" alt="Banner DomisDev" width="100%" />
+</p>
 
 ---
 
-### 🚀 Aprendendo sobre as seguintes Tecnologias:
+## 👋 Bem-vindo(a) ao universo do DomisDev!
 
-#### 🎨 Frontend
+💡 *Codificando ideias. Construindo futuro.*  
+🎯 Desenvolvedor web em constante evolução  
+🎨 Criativo, curioso e apaixonado por tecnologia
+
+---
+
+### 🚀 Tecnologias que estou explorando
 
 <div align="center">
-  <img alt="HTML" height="80" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
-  <img alt="CSS" height="80" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
-  <img alt="Sass" height="80" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-  <img alt="Bootstrap" height="80" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/>
-  <img alt="JavaScript" height="80" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  <img alt="Angular Js" height="80" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain-wordmark.svg"/>
-  <img alt="React" height="80" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-  <img alt="Vue-Js" height="80" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" alt="HTML5" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" alt="CSS3" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" alt="Sass" title="Sass"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" alt="Bootstrap" title="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" alt="Angular" title="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" alt="React" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" alt="Vue.js" title="Vue.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50" alt="Node.js" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="50" alt="Express" title="Express" style="background-color: white; border-radius: 6px; padding: 4px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" alt="MongoDB" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" alt="MySQL" title="MySQL"/>
 </div>
 
 ---
 
-#### ⚙️ Backend
+### 🛠️ Ferramentas & Plataformas
 
 <div align="center">
-  <img alt="Node Js" height="80" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
-  <img alt="Express" height="80" style="margin: 10px; background-color: white; border-radius: 6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"/>
-  <img alt="Mongo DB" height="80" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
-  <img alt="MySql" height="80" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" alt="GitHub" title="GitHub" style="background-color: white; border-radius: 6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" alt="Docker" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VSCode" title="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original-wordmark.svg" width="50" alt="Vercel" title="Vercel" style="background-color: white; border-radius: 6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" alt="NPM" title="NPM"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" width="50" alt="WordPress" title="WordPress" style="background-color: white; border-radius: 6px;"/>
 </div>
 
 ---
 
-#### 🧰 Ferramentas & Serviços
+### 📲 Me acompanha no LinkedIn
 
-<div align="center">
-  <img alt="GitHub" height="80" style="margin: 10px; background-color: white; border-radius: 6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
-  <img alt="Docker" height="80" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
-  <img alt="VsCode" height="80" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg"/>
-  <img alt="Vercel" height="80" style="margin: 10px; background-color: white; border-radius: 6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original-wordmark.svg"/>
-  <img alt="NPM" height="80" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
-  <img alt="WordPress" height="80" style="margin: 10px; background-color: white; border-radius: 6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg"/>
-</div>
-
----
-
-### 📲 Pra conteúdo sobre programação, me segue no LinkedIn!
-
-<a href="https://www.linkedin.com/in/dominique-marcelino-gon%C3%A7alves-09b871331/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/dominique-marcelino-gon%C3%A7alves-09b871331/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
