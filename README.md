@@ -45,7 +45,7 @@
 
 ---
 
-### 📲 Me acompanha no LinkedIn
+### 📲 Me acompanha no LinkedIn:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dominique-marcelino-gon%C3%A7alves-09b871331/" target="_blank">
