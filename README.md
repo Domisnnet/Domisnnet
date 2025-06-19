@@ -5,6 +5,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domisnnet&layout=compact&langs_count=6&theme=tokyonight"/>
 </a>
 
+### Aprendendo sobre as seguintes Tecnologias: !!!
+
 <div style="display: inline-block;"><br>
   <img align="center" alt="HTML" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"/>
   <img align="center" alt="CSS" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"/>
