@@ -34,12 +34,12 @@
 ### 🛠️ Ferramentas & Plataformas
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" alt="GitHub" title="GitHub" style="background-color: white; border-radius: 6px; margin: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" alt="Docker" title="Docker" style="margin: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VSCode" title="VSCode" style="margin: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original-wordmark.svg" width="50" alt="Vercel" title="Vercel" style="background-color: white; border-radius: 6px; margin: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" alt="NPM" title="NPM" style="margin: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" width="50" alt="WordPress" title="WordPress" style="background-color: white; border-radius: 6px; margin: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" alt="GitHub" title="GitHub" style="vertical-align: middle; background-color: white; border-radius: 6px;" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" alt="Docker" title="Docker" style="vertical-align: middle;" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VSCode" title="VSCode" style="vertical-align: middle;" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original-wordmark.svg" width="50" alt="Vercel" title="Vercel" style="vertical-align: middle; background-color: white; border-radius: 6px;" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" alt="NPM" title="NPM" style="vertical-align: middle;" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" width="50" alt="WordPress" title="WordPress" style="vertical-align: middle; background-color: white; border-radius: 6px;" />
 </div>
 
 ---
