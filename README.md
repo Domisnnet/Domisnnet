@@ -28,7 +28,7 @@
 
 <div align="center">
   <img alt="Node Js" height="80" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
-  <img alt="Express" height="80" style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"/>
+  <img alt="Express" height="80" style="margin: 10px; background-color: white; border-radius: 6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"/>
   <img alt="Mongo DB" height="80" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
   <img alt="MySql" height="80" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 </div>
@@ -38,17 +38,17 @@
 #### 🧰 Ferramentas & Serviços
 
 <div align="center">
-  <img alt="GitHub" height="80" style="margin: 10px;" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
+  <img alt="GitHub" height="80" style="margin: 10px; background-color: white; border-radius: 6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
   <img alt="Docker" height="80" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
   <img alt="VsCode" height="80" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg"/>
-  <img alt="Vercel" height="80" style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Vercel_logo_%282022%29.png"/>
+  <img alt="Vercel" height="80" style="margin: 10px; background-color: white; border-radius: 6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original-wordmark.svg"/>
   <img alt="NPM" height="80" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
-  <img alt="WordPress" height="80" style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png"/>
+  <img alt="WordPress" height="80" style="margin: 10px; background-color: white; border-radius: 6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg"/>
 </div>
 
 ---
 
-### 📲 Pra conteúdo sobre programação, me segue no LinkedIn!
+### 📲 Me acompanhe no LinkedIn:
 
 <a href="https://www.linkedin.com/in/dominique-marcelino-gon%C3%A7alves-09b871331/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
