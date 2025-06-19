@@ -22,7 +22,7 @@
       alt="GitHub" 
       height="80" 
       width="90" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-dark.svg">
   </picture>
   <img align="center" alt="React" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vue-Js" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg"/>       
