@@ -24,13 +24,14 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
   </picture> 
   <img align="center" alt="Vercel" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg"/>
-  <img align="center" alt="Node Js" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
 </div >
 
 <div style="display: inline-block;"><br>
+    <img align="center" alt="VsCode" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-plain-wordmark.svg"/>
+    <img align="center" alt="Node Js" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
     <img align="center" alt="React" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
-    <img align="center" alt="NPM" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
     <img align="center" alt="Vue-Js" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg"/> 
+    <img align="center" alt="NPM" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
 </div>
 
 <br>
