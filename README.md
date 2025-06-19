@@ -41,3 +41,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" alt="NPM" title="NPM" style="vertical-align: middle;" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" width="50" alt="WordPress" title="WordPress" style="vertical-align: middle; background-color: white; border-radius: 6px;" />
 </div>
+
+---
+
+### 📲 Me acompanha no LinkedIn:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dominique-marcelino-gon%C3%A7alves-09b871331/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
