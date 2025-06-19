@@ -6,7 +6,7 @@
 
 ## 👋 Bem-vindo(a) ao universo do DomisDev!
 
-💡 *Codificando ideias. Construindo futuro.*  
+💡 Codificando ideias. Construindo futuro
 🎯 Desenvolvedor web em constante evolução  
 🎨 Criativo, curioso e apaixonado por tecnologia
 
