@@ -6,18 +6,18 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domisnnet&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
-<!-- DIV DE TECNOLOGIAS - VERSÃO FINAL E CORRIGIDA -->
-<div style="text-align: center;">
-  <div style="display: inline-block; margin: 10px;">
-    <img align="center" alt="HTML" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"/>
-  </div>
-  <div style="display: inline-block; margin: 10px;">
-    <img align="center" alt="CSS" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"/>
-  </div>
-  <div style="display: inline-block; margin: 10px;">
-    <img align="center" alt="Js" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </div>
-  <div style="display: inline-block; margin: 10px;">
+<!-- DIV DE TECNOLOGIAS - VERSÃO FINAL E SIMPLIFICADA -->
+<div align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height="80" width="90" style="margin: 10px" alt="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height="80" width="90" style="margin: 10px" alt="CSS3"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="80" width="90" style="margin: 10px" alt="JavaScript"/>
+  </a>
+  <a href="https://github.com/Domisnnet" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)"
@@ -28,22 +28,15 @@
         media="(prefers-color-scheme: light)"
         srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
       >
-      <img 
-        align="center" 
-        alt="GitHub" 
-        height="80" 
-        width="90" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
-        style="filter: invert(1);"
-      >
+      <img height="80" width="90" style="margin: 10px" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" style="filter: invert(1);">
     </picture>
-  </div>
-  <div style="display: inline-block; margin: 10px;">
-    <img align="center" alt="React" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  </div>
-  <div style="display: inline-block; margin: 10px;">
-    <img align="center" alt="Vue-Js" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg"/>
-  </div>
+  </a>
+  <a href="https://react.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="80" width="90" style="margin: 10px" alt="React"/>
+  </a>
+  <a href="https://vuejs.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" height="80" width="90" style="margin: 10px" alt="Vue.js"/>
+  </a>
 </div>
  
 <br>
