@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Domisnnet/seu-repo/main/assets/banner-dark.png" alt="Banner DomisDev" width="100%" />
+  <img src="assets/banner-dark.png" alt="Banner DomisDev" width="100%" />
 </p>
+
 
 ---
 
