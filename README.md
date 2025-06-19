@@ -22,7 +22,8 @@
       height="80" 
       width="90" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
-  </picture>      
+  </picture> 
+  <img align="center" alt="Node Js" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
 </div >
 
 <div style="display: inline-block;"><br>
