@@ -1,10 +1,12 @@
-<p align="center">
-  <img src="assets/img/banner-dark.png" alt="Banner DomisDev" width="100%"/>
-</p>
+## 👋 Bem-vindo(a) ao universo do DomisDev!😁
+
+ <div>
+   <a href="https://github.com/Domisnnet">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Domisnnet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domisnnet&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 
 ---
-
-## 👋 Bem-vindo(a) ao universo do DomisDev!
 
 💡 *Codificando ideias. Construindo futuro.*  
 🎯 Desenvolvedor web em constante evolução  
