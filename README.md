@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao perfil do DomisDev!! 😁
 
 <a href="https://github.com/Domisnnet">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Domisnnet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domisnnet&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Domisnnet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="border-radius: 10px;"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domisnnet&layout=compact&langs_count=6&theme=tokyonight" style="border-radius: 10px;"/>
 </a>
 
 ### Aprendendo sobre as seguintes Tecnologias: ###
@@ -11,7 +11,6 @@
   <img align="center" alt="HTML" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"/>
   <img align="center" alt="CSS" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"/>
   <img align="center" alt="Bootstrap" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"/>
-  <img align="center" alt="Sass" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>
   <img align="center" alt="JavaScript" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Docker" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/>
   <picture>
