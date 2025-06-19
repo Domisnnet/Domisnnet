@@ -1,5 +1,6 @@
 <p align="center">
   <img src="assets/img/banner-dark.png" alt="Banner DomisDev" width="50%" />
+  <img src="assets/img/banner-dark-2.png" alt="Banner DomisDev" width="50%" />
 </p>
 
 
