@@ -4,6 +4,7 @@ Bem-vindo(a) ao perfil do DomisDev!! 😁
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Domisnnet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domisnnet&layout=compact&langs_count=6&theme=tokyonight"/>
 </a>
+<br>
 Aprendendo sobre as seguintes Tecnologias:
 <div style="display: inline-block;"><br>
   <img align="center" alt="HTML" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"/>
