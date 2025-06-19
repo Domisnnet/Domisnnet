@@ -25,7 +25,8 @@ Aprendendo sobre as seguintes Tecnologias:
       width="90" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
   </picture>
-  <img align="center" alt="Mongo DB" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/> 
+  <img align="center" alt="Mongo DB" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/>
+  <img align="center" alt="MySql" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/> 
   <img align="center" alt="Vercel" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg"/>
 </div >
 <div style="display: inline-block;"><br>
