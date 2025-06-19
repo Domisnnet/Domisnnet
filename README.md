@@ -1,12 +1,5 @@
 ## Bem-vindo(a) ao perfil do DomisDev!! 😁
 
-<style>
-  .mobile-break { display: none; }
-  @media (max-width: 600px) {
-    .mobile-break { display: block; }
-  }
-</style>
-
  <div>
    <a href="https://github.com/Domisnnet">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Domisnnet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -33,9 +26,6 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
       style="filter: invert(1);">
   </picture>
-  
-  <br class="mobile-break">
-  
   <img align="center" alt="React" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vue-Js" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg"/>       
 </div>
