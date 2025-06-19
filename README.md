@@ -10,20 +10,13 @@
   <img align="center" alt="HTML" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"/>
   <img align="center" alt="CSS" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"/>
   <img align="center" alt="Js" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-dark.svg">
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
+  <a href="https://github.com/Domisnnet" style="display: inline-block;">
     <img 
       align="center" 
       alt="GitHub" 
       height="80" 
       width="90" 
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-dark.svg">
-  </picture>
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-dark.svg"></a>
   <img align="center" alt="React" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vue-Js" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg"/>       
 </div>
