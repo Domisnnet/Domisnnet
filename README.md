@@ -46,16 +46,15 @@ Minhas Stacks:
 
 ---
 
-Ferramentas, Plataformas & Estilização
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60" alt="Sass" title="Sass" style="vertical-align: middle;" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="60" alt="Bootstrap" title="Bootstrap" style="vertical-align: middle;" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/npm/npm-original-wordmark.svg" width="60" alt="NPM" title="NPM" style="vertical-align: middle;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" alt="GitHub" title="GitHub" style="vertical-align: middle; background-color: white; border-radius: 6px; padding: 4px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60" alt="Docker" title="Docker" style="vertical-align: middle;" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VSCode" title="VSCode" style="vertical-align: middle;" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original-wordmark.svg" width="60" alt="Vercel" title="Vercel" style="vertical-align: middle; background-color: white; border-radius: 6px; padding: 4px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" width="60" alt="WordPress" title="WordPress" style="vertical-align: middle; background-color: white; border-radius: 6px;" />
+🛠️ Ferramentas, Plataformas & Estilização
+<div align="center">   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60" alt="Sass" title="Sass" style="vertical-align: middle; border: 1px solid #c9c9c9;" />&nbsp;&nbsp;&nbsp;   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="60" alt="Bootstrap" title="Bootstrap" style="vertical-align: middle; border: 1px solid #c9c9c9;" />&nbsp;&nbsp;&nbsp;   
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/npm/npm-original-wordmark.svg" width="60" alt="NPM" title="NPM" style="vertical-align: middle; border: 1px solid #c9c9c9;" />         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" alt="GitHub" title="GitHub" style="vertical-align: middle; background-color: white; border-radius: 6px; padding: 4px; border: 1px solid #c9c9c9;" />   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60" alt="Docker" title="Docker" style="vertical-align: middle; border: 1px solid #c9c9c9;" />&nbsp;&nbsp;&nbsp;   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VSCode" title="VSCode" style="vertical-align: middle; border: 1px solid #c9c9c9;" />&nbsp;&nbsp;&nbsp;   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original-wordmark.svg" width="60" alt="Vercel" title="Vercel" style="vertical-align: middle; background-color: white; border-radius: 6px; padding: 4px; border: 1px solid #c9c9c9;" />   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" width="60" alt="WordPress" title="WordPress" style="vertical-align: middle; background-color: white; border-radius: 6px; border: 1px solid #c9c9c9;" /> 
 </div>
 
 ---
