@@ -26,12 +26,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" alt="React" title="React" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60" alt="Vue.js" title="Vue.js" style="vertical-align: middle;"/>
 </div>
+
 ---
 
 🖥️ Linguagens & Frameworks Back-end
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" alt="Node.js" title="Node.js" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/express/express-original-wordmark.svg" width="60" alt="Express" title="Express" style="vertical-align: middle; background-color: white; border-radius: 6px; padding: 4px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" alt="Express" title="Express" style="vertical-align: middle;"/>
 </div>
 
 ---
