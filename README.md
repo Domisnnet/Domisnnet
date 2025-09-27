@@ -40,8 +40,8 @@
 
 🗃️ Bancos de Dados
 <div align="center"> 
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" width="150"/>&nbsp;&nbsp;&nbsp; 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" width="150"/> 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" width="160"/>&nbsp;&nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" width="130"/> 
 </div>
 
 ---
