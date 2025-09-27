@@ -15,17 +15,16 @@
 
 ---
 
-💻 Linguagens & Frameworks Front-end:
-<br>
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" alt="HTML5" title="HTML5" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" alt="CSS3" title="CSS3" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60" alt="Sass" title="Sass" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="60" alt="Bootstrap" title="Bootstrap" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript" title="JavaScript" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60" alt="Angular" title="Angular" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" alt="React" title="React" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60" alt="Vue.js" title="Vue.js" style="vertical-align: middle;"/>
+💻 Linguagens & Frameworks Front-end
+<div align="center"> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" width="150"/>&nbsp;&nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" width="150"/>&nbsp;&nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" width="150"/>&nbsp;&nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" width="150"/>&nbsp;&nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" width="150"/>&nbsp;&nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white" width="150"/>&nbsp;&nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" width="150"/>&nbsp;&nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" width="150"/> 
 </div>
 
 ---
