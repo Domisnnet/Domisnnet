@@ -32,8 +32,8 @@
 
 🖥️ Linguagens & Frameworks Back-end
 <div align="center"> 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" width="100"/> 
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" width="100"/> 
 </div>
 
 ---
