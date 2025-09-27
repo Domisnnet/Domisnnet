@@ -58,6 +58,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="60" alt="NPM" title="NPM" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" width="60" alt="WordPress" title="WordPress" style="vertical-align: middle;"/>
 </div>
+
 ---
 
 ### 📲 Me acompanha no LinkedIn:
