@@ -31,16 +31,16 @@
 
 🖥️ Linguagens & Frameworks Back-end
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" alt="Node.js" title="Node.js" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" alt="Express" title="Express" style="vertical-align: middle;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="70" alt="Node.js" title="Node.js" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="70" alt="Express" title="Express" style="vertical-align: middle;"/>
 </div>
 
 ---
 
 🗃️ Bancos de Dados
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="70" alt="MongoDB" title="MongoDB" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70" alt="MySQL" title="MySQL" style="vertical-align: middle;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="80" alt="MongoDB" title="MongoDB" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" alt="MySQL" title="MySQL" style="vertical-align: middle;"/>
 </div>
 
 ---
