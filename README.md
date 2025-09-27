@@ -39,8 +39,8 @@
 
 🗃️ Bancos de Dados
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60" alt="MongoDB" title="MongoDB" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" alt="MySQL" title="MySQL" style="vertical-align: middle;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="70" alt="MongoDB" title="MongoDB" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70" alt="MySQL" title="MySQL" style="vertical-align: middle;"/>
 </div>
 
 ---
