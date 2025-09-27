@@ -38,11 +38,10 @@
 
 ---
 
-🗃️ Bancos de Dados:
-
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="80" alt="MongoDB" title="MongoDB" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" alt="MySQL" title="MySQL" style="vertical-align: middle;"/>
+🗃️ Bancos de Dados
+<div align="center"> 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" width="150"/>&nbsp;&nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" width="150"/> 
 </div>
 
 ---
