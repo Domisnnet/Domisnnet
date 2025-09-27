@@ -15,7 +15,8 @@
 
 ---
 
-💻 Linguagens & Frameworks Front-end
+💻 Linguagens & Frameworks Front-end:
+
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" alt="HTML5" title="HTML5" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" alt="CSS3" title="CSS3" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
@@ -29,7 +30,8 @@
 
 ---
 
-🖥️ Linguagens & Frameworks Back-end
+🖥️ Linguagens & Frameworks Back-end:
+
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="70" alt="Node.js" title="Node.js" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="70" alt="Express" title="Express" style="vertical-align: middle;"/>
@@ -37,7 +39,8 @@
 
 ---
 
-🗃️ Bancos de Dados
+🗃️ Bancos de Dados:
+
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="80" alt="MongoDB" title="MongoDB" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" alt="MySQL" title="MySQL" style="vertical-align: middle;"/>
@@ -45,16 +48,16 @@
 
 ---
 
-🛠️ Ferramentas & Plataformas
+🛠️ Ferramentas & Plataformas:
+
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" alt="GitHub" title="GitHub" style="vertical-align: middle; background-color: white; border-radius: 6px; padding: 4px;"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" alt="GitHub" title="GitHub" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60" alt="Docker" title="Docker" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VSCode" title="VSCode" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original-wordmark.svg" width="60" alt="Vercel" title="Vercel" style="vertical-align: middle; background-color: white; border-radius: 6px; padding: 4px;"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original-wordmark.svg" width="60" alt="Vercel" title="Vercel" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="60" alt="NPM" title="NPM" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" width="60" alt="WordPress" title="WordPress" style="vertical-align: middle; background-color: white; border-radius: 6px; padding: 4px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" width="60" alt="WordPress" title="WordPress" style="vertical-align: middle;"/>
 </div>
-
 ---
 
 ### 📲 Me acompanha no LinkedIn:
