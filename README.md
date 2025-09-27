@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" width="120"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" width="150"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" width="130"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" width="200"/> </div>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" width="210"/> </div>
 ---
 
 ### 📲 Me acompanha no LinkedIn:
