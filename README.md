@@ -55,7 +55,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VSCode" title="VSCode" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original-wordmark.svg" width="60" alt="Vercel" title="Vercel" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="60" alt="NPM" title="NPM" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" width="60" alt="WordPress" title="WordPress" style="vertical-align: middle;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" width="60" alt="WordPress" title="WordPress" style="vertical-align: middle; background-color: #00769b; border-radius: 6px; padding: 4px;" />
 </div>
 
 ---
