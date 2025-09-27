@@ -53,11 +53,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" alt="GitHub" title="GitHub" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60" alt="Docker" title="Docker" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VSCode" title="VSCode" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-<img src="./APP_ICON_2D_DARK.png" width="60" alt="Cursor" title="Cursor" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original-wordmark.svg" width="60" alt="Vercel" title="Vercel" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="60" alt="NPM" title="NPM" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" width="60" alt="WordPress" title="WordPress" style="vertical-align: middle;"/>
 </div>
+
 ---
 
 ### 📲 Me acompanha no LinkedIn:
