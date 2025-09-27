@@ -47,15 +47,15 @@ Minhas Stacks:
 ---
 
 🛠️ Ferramentas, Plataformas & Estilização
-<div align="center">
-<a href="https://sass-lang.com/" target="_blank"><img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white&labelColor=000000&color=black" alt="Sass" title="Sass" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white&labelColor=000000&color=black" alt="Bootstrap" title="Bootstrap" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white&labelColor=000000&color=black" alt="NPM" title="NPM" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=000000&color=black" alt="GitHub" title="GitHub" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=000000&color=black" alt="Docker" title="Docker" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white&labelColor=000000&color=black" alt="VSCode" title="VSCode" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white&labelColor=000000&color=black" alt="Vercel" title="Vercel" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://wordpress.com/" target="_blank"><img src="https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white&labelColor=000000&color=black" alt="WordPress" title="WordPress" /></a>
+<div align="center">   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60" alt="Sass" title="Sass" />&nbsp;&nbsp;&nbsp;   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="60" alt="Bootstrap" title="Bootstrap" />&nbsp;&nbsp;&nbsp;   
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/npm/npm-original-wordmark.svg" width="60" alt="NPM" title="NPM" />   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" alt="GitHub" title="GitHub" />   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60" alt="Docker" title="Docker" />&nbsp;&nbsp;&nbsp;   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VSCode" title="VSCode" />&nbsp;&nbsp;&nbsp;   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original-wordmark.svg" width="60" alt="Vercel" title="Vercel" />   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" width="60" alt="WordPress" title="WordPress" /> 
 </div>
 
 ---
