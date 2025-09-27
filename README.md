@@ -30,11 +30,10 @@
 
 ---
 
-🖥️ Linguagens & Frameworks Back-end:
-
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="70" alt="Node.js" title="Node.js" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="70" alt="Express" title="Express" style="vertical-align: middle;"/>
+🖥️ Linguagens & Frameworks Back-end
+<div align="center"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" alt="Node.js" title="Node.js" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" alt="Express" title="Express" style="vertical-align: middle; background-color: white; border-radius: 6px; padding: 4px;" /> 
 </div>
 
 ---
