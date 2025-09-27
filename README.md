@@ -33,7 +33,7 @@ Minhas Stacks:
 🖥️ Linguagens & Frameworks Back-end
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" alt="Node.js" title="Node.js" style="vertical-align: middle;" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="60" alt="Express" title="Express" style="vertical-align: middle; background-color: white; border-radius: 6px; padding: 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" alt="Express" title="Express" style="vertical-align: middle; background-color: white; border-radius: 6px; padding: 4px;" />
 </div>
 
 ---
@@ -51,10 +51,10 @@ Ferramentas, Plataformas & Estilização
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60" alt="Sass" title="Sass" style="vertical-align: middle;" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="60" alt="Bootstrap" title="Bootstrap" style="vertical-align: middle;" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/devicon/icons/npm/npm-original-wordmark.svg" width="60" alt="NPM" title="NPM" style="vertical-align: middle;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" alt="GitHub" title="GitHub" style="vertical-align: middle; background-color: white; border-radius: 6px;" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" alt="GitHub" title="GitHub" style="vertical-align: middle; background-color: white; border-radius: 6px; padding: 4px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60" alt="Docker" title="Docker" style="vertical-align: middle;" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VSCode" title="VSCode" style="vertical-align: middle;" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original-wordmark.svg" width="60" alt="Vercel" title="Vercel" style="vertical-align: middle; background-color: white; border-radius: 6px;" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original-wordmark.svg" width="60" alt="Vercel" title="Vercel" style="vertical-align: middle; background-color: white; border-radius: 6px; padding: 4px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" width="60" alt="WordPress" title="WordPress" style="vertical-align: middle; background-color: white; border-radius: 6px;" />
 </div>
 
