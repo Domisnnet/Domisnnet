@@ -32,8 +32,8 @@
 
 🖥️ Linguagens & Frameworks Back-end
 <div align="center"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" alt="Node.js" title="Node.js" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" alt="Express" title="Express" style="vertical-align: middle; background-color: white; border-radius: 6px; padding: 4px;" /> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> 
 </div>
 
 ---
