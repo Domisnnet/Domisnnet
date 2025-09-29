@@ -53,8 +53,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" width="140"/>&nbsp;&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" width="110"/>&nbsp;&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" width="130"/>&nbsp;&nbsp;&nbsp; 
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" width="125"/>&nbsp;&nbsp;&nbsp; 
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" width="125"/> 
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" width="110"/>&nbsp;&nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" width="150"/> 
 </div>
 
 ---
