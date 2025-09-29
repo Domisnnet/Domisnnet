@@ -61,7 +61,7 @@
 
 ### 📲 Me acompanha no LinkedIn:
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/dominique-marcelino-gon%C3%A7alves-09b871331/" target="_blank"style="text-decoration: none;>
+  <a href="https://www.linkedin.com/in/dominique-marcelino-gon%C3%A7alves-09b871331/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 10px;" width="120"/>    
   </a> 
 </p>
