@@ -19,7 +19,7 @@
 
 ---
 
-💻 Linguagens & Frameworks Front-end
+💻 Linguagens & Frameworks Front-end:
 
 ##### 🧱 Bases da Web & Pré-processamento
 <div align="center">
@@ -39,7 +39,7 @@
 
 ---
 
-🖥️ Linguagens & Frameworks Back-end
+🖥️ Linguagens & Frameworks Back-end:
 <div align="center"> 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" width="140"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" width="150"/> 
@@ -47,7 +47,7 @@
 
 ---
 
-🗃️ Bancos de Dados
+🗃️ Bancos de Dados:
 <div align="center"> 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" width="160"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" width="130"/> 
@@ -55,7 +55,7 @@
 
 ---
 
-🛠️ Ferramentas & Plataformas
+🛠️ Ferramentas & Plataformas:
 
 ##### ⚙️ Fluxo de Trabalho & DevOps
 <div align="center"> 
