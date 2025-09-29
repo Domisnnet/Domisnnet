@@ -62,7 +62,7 @@
 <div align="center"> 
   <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" width="140"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/n8n-223F6D?style=flat&logo=n8n&logoColor=white" width="110"/> 
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" width="110"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <br>    <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" width="110"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" width="130"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" width="105"/>
 </div>
