@@ -1,11 +1,11 @@
 ## 👋 Bem-vindo(a) ao universo do DomisDev!😁
 <a href="https://github.com/Domisnnet">
-    <img src="https://github-readme-stats.vercel.app/api?username=Domisnnet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&width=450" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Domisnnet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&width=450&hide_border=true" alt="GitHub Stats" />
   </a>
 </p>
 
 <a href="https://github.com/Domisnnet">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domisnnet&layout=donut&langs_count=6&theme=tokyonight&width=450&height=180" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domisnnet&layout=donut&langs_count=6&theme=tokyonight&width=450&height=180&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
@@ -64,6 +64,6 @@
 ### 📲 Me acompanha no LinkedIn:
 <p align="center">
   <a href="https://www.linkedin.com/in/dominique-marcelino-gon%C3%A7alves-09b871331/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 10px;" width="120"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="120"/>
   </a>
 </p>
