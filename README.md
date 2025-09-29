@@ -58,7 +58,7 @@
 
 🛠️ Ferramentas & Plataformas :
 
-##### ⚙️ Fluxo de Trabalho & DevOps
+##### Fluxo de Trabalho & DevOps ⚙️
 <div align="center"> 
   <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" width="140"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" width="140"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -67,7 +67,7 @@
   <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" width="105"/>
 </div>
 
-##### 📝 Plataformas de Conteúdo (CMS)
+##### Plataformas de Conteúdo (CMS) 📝
 <div align="center">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" width="180"/> 
 </div>
