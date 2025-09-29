@@ -1,7 +1,7 @@
 ## 👋 Bem-vindo(a) ao universo do DomisDev!😁
 
 <a href="https://github.com/Domisnnet">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Domisnnet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&width=450"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Domisnnet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&width=450"/>
 </a>
 <br>
 <a href="https://github.com/Domisnnet">
