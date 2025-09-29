@@ -53,8 +53,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" width="140"/>&nbsp;&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" width="110"/>&nbsp;&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" width="130"/>&nbsp;&nbsp;&nbsp; 
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" width="110"/>&nbsp;&nbsp;&nbsp; 
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" width="150"/> 
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" width="105"/>&nbsp;&nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" width="180"/> 
 </div>
 
 ---
@@ -62,6 +62,6 @@
 ### 📲 Me acompanha no LinkedIn:
 <p align="center"> 
   <a href="https://www.linkedin.com/in/dominique-marcelino-gon%C3%A7alves-09b871331/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 10px;" width="130"/>    
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 10px;" width="120"/>    
   </a> 
 </p>
