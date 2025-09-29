@@ -4,7 +4,7 @@
 </a>
 
 <a href="https://github.com/Domisnnet">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domisnnet&layout=donut&langs_count=6&theme=tokyonight&width=380&height=200" style="text-decoration: none;/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domisnnet&layout=donut&langs_count=6&theme=tokyonight&width=380&height=200"/>
 </a>
 
 ---
