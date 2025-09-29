@@ -9,7 +9,7 @@
   </a>
 </p>
 
----
+ <hr style="border: none; border-top: 1px solid #30363d; margin: 10px 0; background: none;">
 
 💡 Codificando ideias. Construindo futuro.
 
