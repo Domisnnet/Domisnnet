@@ -116,10 +116,10 @@
 
 ---
 
-### <h3>📲 Me acompanha no LinkedIn:
-
+### 📲 Me acompanha no LinkedIn:
 <p align="center"> 
   <a href="https://www.linkedin.com/in/dominique-marcelino-gon%C3%A7alves-09b871331/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 10px;" width="130"/>    
   </a> 
 </p>
+
