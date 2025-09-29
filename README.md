@@ -9,7 +9,7 @@
   </a>
 </p>
 
- <hr style="border: none; border-top: 1px solid #30363d; margin: 10px 0; background: none;">
+<p style="margin-top: 15px; margin-bottom: 15px;"><u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></p>
 
 💡 Codificando ideias. Construindo futuro.
 
@@ -17,9 +17,9 @@
 
 🎨 Criativo, curioso e apaixonado por tecnologia
 
----
+<p style="margin-top: 15px; margin-bottom: 15px;"><u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></p>
 
-💻 Linguagens & Frameworks Front-end:
+💻 Linguagens & Frameworks Front-end
 
 ##### 🧱 Bases da Web & Pré-processamento
 <div align="center">
@@ -30,32 +30,32 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" width="160"/>
 </div>
 
-##### ⚛️ Frameworks SPA (Single Page Application)
+<p style="margin-top: 10px; margin-bottom: 5px;"><u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></p> ##### ⚛️ Frameworks SPA (Single Page Application)
 <div align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" width="120"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" width="110"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" width="120"/>
 </div>
 
----
+<p style="margin-top: 15px; margin-bottom: 15px;"><u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></p>
 
-🖥️ Linguagens & Frameworks Back-end:
+🖥️ Linguagens & Frameworks Back-end
 <div align="center"> 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" width="140"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" width="150"/> 
 </div>
 
----
+<p style="margin-top: 15px; margin-bottom: 15px;"><u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></p>
 
-🗃️ Bancos de Dados:
+🗃️ Bancos de Dados
 <div align="center"> 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" width="160"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" width="130"/> 
 </div>
 
----
+<p style="margin-top: 15px; margin-bottom: 15px;"><u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></p>
 
-🛠️ Ferramentas & Plataformas:
+🛠️ Ferramentas & Plataformas
 
 ##### ⚙️ Fluxo de Trabalho & DevOps
 <div align="center"> 
@@ -66,12 +66,12 @@
   <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" width="105"/>
 </div>
 
-##### 📝 Plataformas de Conteúdo (CMS)
+<p style="margin-top: 10px; margin-bottom: 5px;"><u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></p> ##### 📝 Plataformas de Conteúdo (CMS)
 <div align="center">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" width="180"/> 
 </div>
 
----
+<p style="margin-top: 15px; margin-bottom: 15px;"><u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></p>
 
 ### 📲 Me acompanha no LinkedIn:
 <p align="center">
