@@ -1,28 +1,24 @@
-<p align="center">
-  <a href="https://github.com/Domisnnet">
-    <img src="https://github-readme-stats.vercel.app/api?username=Domisnnet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&width=450"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Domisnnet">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domisnnet&layout=donut&langs_count=6&theme=tokyonight&width=380&height=200"/>
-  </a>
-</p>
+## 👋 Bem-vindo(a) ao universo do DomisDev!😁
 
----
-
-<p align="center">
-  💡 Codificando ideias. Construindo futuro.
-  <br>
-  🎯 Desenvolvedor web em constante evolução
-  <br>
-  🎨 Criativo, curioso e apaixonado por tecnologia
-</p>
+<a href="https://github.com/Domisnnet">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Domisnnet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&width=450"/>
+</a>
+<a href="https://github.com/Domisnnet">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domisnnet&layout=donut&langs_count=6&theme=tokyonight&width=380&height=200"/>
+</a>
 
 ---
 
-<h3 align="center">💻 Linguagens & Frameworks Front-end</h3>
+💡 Codificando ideias. Construindo futuro.
+🎯 Desenvolvedor web em constante evolução
+🎨 Criativo, curioso e apaixonado por tecnologia
+
+---
+
+<br>
+<h3>💻 Linguagens & Frameworks Front-end</h3>
 <table align="center">
   <tr>
     <td align="center">
@@ -32,7 +28,7 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" width="80"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" width="110"/>
+      <img src="https://img.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" width="110"/>
     </td>
   </tr>
   <tr>
@@ -60,7 +56,7 @@
 
 ---
 
-<h3 align="center">🖥️ Linguagens & Frameworks Back-end</h3>
+<h3>🖥️ Linguagens & Frameworks Back-end</h3>
 <table align="center">
   <tr>
     <td align="center">
@@ -76,7 +72,7 @@
 
 ---
 
-<h3 align="center">🗃️ Bancos de Dados</h3>
+<h3>🗃️ Bancos de Dados</h3>
 <table align="center">
   <tr>
     <td align="center">
@@ -92,7 +88,7 @@
 
 ---
 
-<h3 align="center">🛠️ Ferramentas & Plataformas</h3>
+<h3>🛠️ Ferramentas & Plataformas</h3>
 <table align="center">
   <tr>
     <td align="center">
@@ -120,9 +116,9 @@
 
 ---
 
-<h3 align="center">📲 Me acompanha no LinkedIn:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/dominique-marcelino-gon%C3%A7alves-09b871331/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 10px;" width="130"/>
-  </a>
-</p>
+<h3>📲 Me acompanha no LinkedIn:</h3>
+<a href="https://www.linkedin.com/in/dominique-marcelino-gon%C3%A7alves-09b871331/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 10px;" width="130"/>
+</a>
+
+</div>
