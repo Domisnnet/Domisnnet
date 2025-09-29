@@ -1,9 +1,8 @@
 ## 👋 Bem-vindo(a) ao universo do DomisDev!😁
 
 <a href="https://github.com/Domisnnet">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Domisnnet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&width=450"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Domisnnet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&width=450"/>
 </a>
-<br>
 <br>
 <a href="https://github.com/Domisnnet">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domisnnet&layout=donut&langs_count=6&theme=tokyonight&width=380&height=200"/>
@@ -11,13 +10,15 @@
 
 ---
 
-💡 Codificando ideias. Construindo futuro.
-🎯 Desenvolvedor web em constante evolução
-🎨 Criativo, curioso e apaixonado por tecnologia
+<p>
+  💡 Codificando ideias. Construindo futuro.<br>
+  🎯 Desenvolvedor web em constante evolução<br>
+  🎨 Criativo, curioso e apaixonado por tecnologia
+</p>
 
 ---
 
-<br>
+<div align="center">
 <h3>💻 Linguagens & Frameworks Front-end</h3>
 <table align="center">
   <tr>
@@ -120,3 +121,5 @@
 <a href="https://www.linkedin.com/in/dominique-marcelino-gon%C3%A7alves-09b871331/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 10px;"/>
 </a>
+
+</div>
