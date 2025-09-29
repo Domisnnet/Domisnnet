@@ -49,7 +49,7 @@
 
 🛠️ Ferramentas & Plataformas
 <div align="center"> 
-  <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" width="150"/>&nbsp;&nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" width="140"/>&nbsp;&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" width="150"/>&nbsp;&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" width="150"/>&nbsp;&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" width="150"/>&nbsp;&nbsp;&nbsp; 
