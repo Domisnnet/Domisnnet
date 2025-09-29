@@ -5,7 +5,8 @@
 </p>
 
 <a href="https://github.com/Domisnnet">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domisnnet&layout=donut&langs_count=6&theme=tokyonight&width=450&height=180" alt="Principais Linguagens" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domisnnet&layout=donut&langs_count=6&theme=tokyonight&width=450&height=180&locale=pt-br" alt="Principais Linguagens" />
+  </a>
   </a>
 </p>
 
@@ -39,15 +40,12 @@
 
 ---
 
----
 🖥️ Linguagens & Frameworks Back-end
 <div align="center"> 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" width="140"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" width="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" width="120"/> 
 </div>
-
----
 
 ---
 
