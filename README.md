@@ -32,9 +32,9 @@
 ---
 
 🖥️ Linguagens & Frameworks Back-end
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" alt="Node.js" title="Node.js" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" alt="Express" title="Express" style="vertical-align: middle;"/>
+<div align="center"> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" width="150"/>&nbsp;&nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" width="150"/> 
 </div>
 
 ---
