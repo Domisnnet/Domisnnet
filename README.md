@@ -1,12 +1,12 @@
 ## 👋 Bem-vindo(a) ao universo do DomisDev!😁
 <a href="https://github.com/Domisnnet">
-    <img src="https://github-readme-stats.vercel.app/api?username=Domisnnet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&width=450" alt="GitHub Stats" />
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=Domisnnet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&width=450&locale=pt" alt="Estatísticas do GitHub" />
+  </a>
 </p>
 
 <a href="https://github.com/Domisnnet">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domisnnet&layout=donut&langs_count=6&theme=tokyonight&width=450&height=180" alt="Top Languages" />
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domisnnet&layout=donut&langs_count=6&theme=tokyonight&width=450&height=180&locale=pt" alt="Principais Linguagens" />
+  </a>
 </p>
 
 ---
