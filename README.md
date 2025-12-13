@@ -4,6 +4,11 @@
     <img src="https://raw.githubusercontent.com/Domisnnet/github-stats/main/github-stats.svg" />
   </a>
 </p>
+<p align="center">    
+  <a href="https://github.com/Domisnnet">
+    <img src="https://github.com/Domisnnet/GitHub-Stats/blob/main/top-langs.svg" />
+  </a>  
+</p>
 
 ---
 
