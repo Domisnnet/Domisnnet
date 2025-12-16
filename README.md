@@ -5,12 +5,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Domisnnet">
-    <img src="https://raw.githubusercontent.com/Domisnnet/github-stats/main/top-langs.svg" />
-  </a>
-</p>
-
 ---
 
 💡 Codificando ideias. Construindo futuro.
