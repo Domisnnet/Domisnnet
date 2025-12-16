@@ -1,7 +1,7 @@
 ## 👋 Bem-vindo(a) ao universo do DomisDev!😁
 <p align="center">
   <a href="https://github.com/Domisnnet">
-    <img src="https://raw.githubusercontent.com/Domisnnet/github-stats/main/github-stats.svg" />
+    <img src="https://raw.githubusercontent.com/Domisnnet/github-stats/main/top-langs.svg" />
   </a>
 </p>
 
