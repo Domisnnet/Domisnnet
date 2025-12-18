@@ -5,6 +5,9 @@
     <img src="https://us-central1-github-stats-68157678-42e04.cloudfunctions.net/statsSvg" />
   </a>  
 </p>
+<p align="center">
+  <em>📊 Estatísticas geradas por aplicação própria (Node.js + Firebase Functions)</em>
+</p>
 
 ---
 
