@@ -93,7 +93,5 @@
 ## 📲 Conecte-se comigo no LinkedIn
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dominique-marcelino-gon%C3%A7alves-09b871331/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" width="120"/>
-  </a>
+  <a href="https://www.linkedin.com/in/dominique-marcelino-gon%C3%A7alves-09b871331/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" width="120"/></a>
 </p>
