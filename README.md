@@ -1,6 +1,10 @@
 ## 👋 Bem-vindo(a) ao universo do DomisDev!😁
 
-    ![GitHub Dashboard](https://us-central1-github-stats-68157678-42e04.cloudfunctions.net/statsSvg)
+<p align="center">    
+  <a href="https://github.com/Domisnnet">
+    <img src="https://us-central1-github-stats-68157678-42e04.cloudfunctions.net/statsSvg" />
+  </a>  
+</p>
 
 ---
 
