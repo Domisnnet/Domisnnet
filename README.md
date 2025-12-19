@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="README.md"><img src="https://img.shields.io/badge/Português_BR-2ea44f?style=flat&logo=github&logoColor=white" height="35" alt="Português-BR" /></a>&nbsp;<a href="README_EN.md"><img src="https://img.shields.io/badge/English_US-0366d6?style=flat&logo=google-translate&logoColor=white" height="35" alt="English" /></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/Português_BR-2ea44f?style=flat&logo=github&logoColor=white" height="50" alt="Português-BR" /></a>&nbsp;<a href="README_EN.md"><img src="https://img.shields.io/badge/English_US-0366d6?style=flat&logo=google-translate&logoColor=white" height="50" alt="English" /></a>
 </p>
 
 ## 👋 Bem-vindo(a) ao universo do DomisDev 🚀
