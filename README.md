@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="README.md"><img src="https://img.shields.io/badge/Português-BR-green?style=flat" alt="Português-BR" height="30"/></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/Português-BR-green?style=flat" alt="Português-BR" height="40"/></a>
   &nbsp;
-  <a href="README_EN.md"><img src="https://img.shields.io/badge/English-US-blue?style=flat" alt="English" height="30"/></a>
+  <a href="README_EN.md"><img src="https://img.shields.io/badge/English-US-blue?style=flat" alt="English" height="40"/></a>
 </p>
 
 ## 👋 Bem-vindo(a) ao universo do DomisDev 🚀
