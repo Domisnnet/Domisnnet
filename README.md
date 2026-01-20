@@ -6,7 +6,7 @@
 
 <p align="center">    
   <a href="https://github.com/Domisnnet">
-    <img src="https://github.com/Domisnnet/GitHub-Stats-Generator/blob/main/output/dashboard.png" width="850" alt="Estatísticas Geradas" />
+    <img src="https://us-central1-github-stats-68157678-42e04.cloudfunctions.net/statsSvg?theme=tokyonight" />
   </a>  
 </p>
 
