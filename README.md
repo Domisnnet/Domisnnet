@@ -1,3 +1,7 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Domisnnet/Domisnnet?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Domisnnet/Domisnnet?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Domisnnet/Domisnnet?style=for-the-badge)
+
 <p align="center">
   <a href="README.md"><img src="https://img.shields.io/badge/Português_BR-2ea44f?style=flat&logo=github&logoColor=white" width="150" alt="Português-BR" /></a>&nbsp;<a href="README_EN.md"><img src="https://img.shields.io/badge/English_US-0366d6?style=flat&logo=google-translate&logoColor=white" width="130" alt="English" /></a>
 </p>
