@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" width="160"/>
 </div>
 
-### SPA Frameworks (Single Page Applications) ⚛
+### SPA Frameworks - Single Page Applications ⚛
 <div align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" width="120"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" width="105"/>
