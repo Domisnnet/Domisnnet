@@ -10,12 +10,12 @@
 
 <p align="center">    
   <a href="https://github.com/Domisnnet">
-    <img src="https://us-central1-github-stats-68157678-42e04.cloudfunctions.net/statsSvg?theme=tokyonight" />
+    <img src="https://us-central1-github-stats-68157678-42e04.cloudfunctions.net/statsSvg?username=Domisnnet&theme=tokyonight" alt="Dashboard Animado" width="100%" />
   </a>  
 </p>
 
 <p align="center">
-  <em>📊 Estatísticas do GitHub geradas por aplicação própria (Node.js + Firebase Functions)</em>
+  <em>📊 Estatísticas do GitHub geradas por aplicação própria - Node.js + Firebase Functions</em>
 </p>
 
 ---
