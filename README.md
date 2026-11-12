@@ -7,7 +7,9 @@
   <a href="README.md">
     <img src=
       "https://img.shields.io/badge/Português_BR-2ea44f?style=flat&logo=github&logoColor=white"   width="150" alt="Português-BR" 
-    /></a>&nbsp;<a href="README_EN.md">
+    />
+  </a>&nbsp;
+  <a href="README_EN.md">
     <img src=
       "https://img.shields.io/badge/English_US-0366d6?style=flat&logo=google-translate&logoColor=white" width="130" alt="English" 
     />
@@ -15,7 +17,6 @@
 </p>
 
 <h2 id="bem-vindo">👋 Bem-vindo(a) ao universo do DomisDev 🚀</h2>
-
 <p align="center">    
   <a href="https://github.com/Domisnnet">
     <img src="https://us-central1-github-stats-68157678-42e04.cloudfunctions.net/statsSvg?username=Domisnnet&theme=tokyonight"                 alt="Dashboard Animado" width="100%" />
@@ -41,7 +42,6 @@
 <h2>💻 Linguagens & Frameworks Front-End:</h2>
 
 <h3>Bases da Web & Pré-processamento 🧱</h3>
-
 <div align="center">
   <img src=
     "https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" width="120"
@@ -61,7 +61,6 @@
 </div>
 
 <h3>Frameworks SPA - Single Page Applications ⚛</h3>
-
 <div align="center">
   <img src=
     "https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" width="120"
@@ -77,7 +76,6 @@
 ---
 
 <h2>🖥 Linguagens & Frameworks Back-End:</h2>
-
 <div align="center"> 
   <img src=
     "https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" width="135"
@@ -93,7 +91,6 @@
 ---
 
 <h2>🗃 Bancos de Dados:</h2>
-
 <div align="center"> 
   <img src=
     "https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" width="160"
@@ -108,7 +105,6 @@
 <h2>🛠 Ferramentas & Plataformas:</h2>
 
 <h3>Fluxo de Trabalho & DevOps ⚙</h3>
-
 <div align="center"> 
   <img src=
     "https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" width="140"
@@ -125,7 +121,6 @@
 </div>
 
 <h3>Plataformas de Conteúdo - CMS 📝</h3>
-
 <div align="center">
   <img src=
     "https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" width="180"
@@ -145,7 +140,6 @@
 ---
 
 <h2>📲 Conecte-se comigo no LinkedIn:</h2>
-
 <p align="center">
   <a href=
     "https://www.linkedin.com/in/dominique-marcelino-gon%C3%A7alves-09b871331/"
