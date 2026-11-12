@@ -71,7 +71,6 @@
   />
 </div>
 
----
 
 <h2>🖥 Linguagens & Frameworks Back-End:</h2>
 <div align="center"> 
@@ -86,7 +85,6 @@
   />
 </div>
 
----
 
 <h2>🗃 Bancos de Dados:</h2>
 <div align="center"> 
@@ -98,7 +96,6 @@
   />
 </div>
 
----
 
 <h2>🛠 Ferramentas & Plataformas:</h2>
 
@@ -125,7 +122,6 @@
   />
 </div>
 
----
 
 <h2>🧠 Arquitetura & Deploy:</h2>
 
