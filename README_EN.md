@@ -24,7 +24,6 @@
 >
 > 🎨 Creative, curious, and passionate about technology.
 
----
 
 <h2>💻 Front-end Languages & Frameworks:</h2>
 <h3>Web Fundamentals & Preprocessing 🧱</h3>
@@ -46,6 +45,7 @@
   />
 </div>
 
+
 <h3>SPA Frameworks - Single Page Applications ⚛</h3>
 <div align="center">
   <img src=
@@ -58,6 +58,7 @@
     "https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" width="110"
   />
 </div>
+
 
 <h2>🖥 Back-end Languages & Frameworks:</h2>
 <div align="center"> 
@@ -72,6 +73,7 @@
   />
 </div>
 
+
 <h2>🗃 Databases:</h2>
 <div align="center"> 
   <img src=
@@ -81,6 +83,7 @@
     "https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" width="130"
   />
 </div>
+
 
 <h2>🛠 Tools & Platforms:</h2>
 <h3>Workflow & DevOps ⚙</h3>
@@ -99,12 +102,14 @@
   />
 </div>
 
+
 <h3>Content Management Systems 📝</h3>
 <div align="center">
   <img src=
     "https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" width="180"
   />
 </div>
+
 
 <h2>🧠 Architecture & Deployment:</h2>
 
@@ -114,7 +119,6 @@
 - Hosting: <code>Firebase Hosting</code>
 - Real-World Usage: <code>GitHub</code> Profile and Portfolio Integrations
 
----
 
 <h2>📲 Connect with me on LinkedIn:</h2>
 <p align="center">
