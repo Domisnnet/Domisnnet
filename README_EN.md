@@ -18,7 +18,6 @@
   </em>
 </p>
 
----
 
 > 💡 Turning ideas into code. Building the future.
 >
@@ -29,7 +28,6 @@
 ---
 
 <h2>💻 Front-end Languages & Frameworks:</h2>
-
 <h3>Web Fundamentals & Preprocessing 🧱</h3>
 <div align="center">
   <img src=
@@ -62,7 +60,6 @@
   />
 </div>
 
----
 
 <h2>🖥 Back-end Languages & Frameworks:</h2>
 <div align="center"> 
@@ -77,7 +74,6 @@
   />
 </div>
 
----
 
 <h2>🗃 Databases:</h2>
 <div align="center"> 
@@ -89,10 +85,8 @@
   />
 </div>
 
----
 
 <h2>🛠 Tools & Platforms:</h2>
-
 <h3>Workflow & DevOps ⚙</h3>
 <div align="center"> 
   <img src=
@@ -116,7 +110,6 @@
   />
 </div>
 
----
 
 <h2>🧠 Architecture & Deployment:</h2>
 
