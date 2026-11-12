@@ -4,7 +4,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Domisnnet&style=flat&label=PROFILE+VIEWS&labelColor=2d333b&color=0969da)
 
 <h2 id="welcome">👋 Welcome to the DomisDev Universe 🚀</h2>
-
 <p align="center">    
   <a href="https://github.com/Domisnnet">
     <img src=
@@ -32,7 +31,6 @@
 <h2>💻 Front-end Languages & Frameworks:</h2>
 
 <h3>Web Fundamentals & Preprocessing 🧱</h3>
-
 <div align="center">
   <img src=
     "https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" width="120"
@@ -52,7 +50,6 @@
 </div>
 
 <h3>SPA Frameworks - Single Page Applications ⚛</h3>
-
 <div align="center">
   <img src=
     "https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" width="120"
@@ -68,7 +65,6 @@
 ---
 
 <h2>🖥 Back-end Languages & Frameworks:</h2>
-
 <div align="center"> 
   <img src=
     "https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" width="135"
@@ -84,7 +80,6 @@
 ---
 
 <h2>🗃 Databases:</h2>
-
 <div align="center"> 
   <img src=
     "https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" width="160"
@@ -99,7 +94,6 @@
 <h2>🛠 Tools & Platforms:</h2>
 
 <h3>Workflow & DevOps ⚙</h3>
-
 <div align="center"> 
   <img src=
     "https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" width="140"
@@ -116,7 +110,6 @@
 </div>
 
 <h3>Content Management Systems 📝</h3>
-
 <div align="center">
   <img src=
     "https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" width="180"
@@ -136,7 +129,6 @@
 ---
 
 <h2>📲 Connect with me on LinkedIn:</h2>
-
 <p align="center">
   <a href=
     "https://www.linkedin.com/in/dominique-marcelino-gon%C3%A7alves-09b871331/"
