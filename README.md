@@ -25,7 +25,8 @@
 
 <p align="center">
   <em>
-    📊 Estatísticas do GitHub geradas por aplicação própria <code>Node.js</code> + <code>Firebase Functions</code>
+    📊 Estatísticas do GitHub geradas por aplicação própria: 
+    &nbsp;<code>Node.js</code> + <code>Firebase Functions</code>
   </em>
 </p>
 
@@ -36,7 +37,6 @@
 >
 > 🎨 Criativo, curioso e apaixonado por tecnologia
 
----
 
 <h2>💻 Linguagens & Frameworks Front-End:</h2>
 <h3>Bases da Web & Pré-processamento 🧱</h3>
@@ -57,6 +57,7 @@
     "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" width="160"
   />
 </div>
+
 
 <h3>Frameworks SPA - Single Page Applications ⚛</h3>
 <div align="center">
@@ -98,7 +99,6 @@
 
 
 <h2>🛠 Ferramentas & Plataformas:</h2>
-
 <h3>Fluxo de Trabalho & DevOps ⚙</h3>
 <div align="center"> 
   <img src=
@@ -131,7 +131,6 @@
 - Hospedagem: <code>Firebase Hosting</code>
 - Uso real: Integrações no Perfil e Portfólio do: &nbsp;<code>GitHub</code>
 
----
 
 <h2>📲 Conecte-se comigo no LinkedIn:</h2>
 <p align="center">
