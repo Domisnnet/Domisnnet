@@ -18,7 +18,6 @@
   </em>
 </p>
 
-
 > 💡 Turning ideas into code. Building the future.
 >
 > 🎯 Web developer constantly evolving.
@@ -60,7 +59,6 @@
   />
 </div>
 
-
 <h2>🖥 Back-end Languages & Frameworks:</h2>
 <div align="center"> 
   <img src=
@@ -74,7 +72,6 @@
   />
 </div>
 
-
 <h2>🗃 Databases:</h2>
 <div align="center"> 
   <img src=
@@ -84,7 +81,6 @@
     "https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" width="130"
   />
 </div>
-
 
 <h2>🛠 Tools & Platforms:</h2>
 <h3>Workflow & DevOps ⚙</h3>
@@ -109,7 +105,6 @@
     "https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" width="180"
   />
 </div>
-
 
 <h2>🧠 Architecture & Deployment:</h2>
 
