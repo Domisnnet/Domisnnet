@@ -39,7 +39,6 @@
 ---
 
 <h2>💻 Linguagens & Frameworks Front-End:</h2>
-
 <h3>Bases da Web & Pré-processamento 🧱</h3>
 <div align="center">
   <img src=
