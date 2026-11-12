@@ -135,11 +135,11 @@
 
 <h2>🧠 Arquitetura & Deploy:</h2>
 
-- Front-end: SPA moderna
-- Back-end: API serverless <code>Node.js</code> + <code>Firebase Functions</code>
-- Banco de dados: <code>Firestore</code>
+- Front-End: <code>SPA Moderna</code>
+- Back-End: API serverless <code>Node.js</code> + <code>Firebase Functions</code>
+- Banco de Dados: <code>Firestore</code>
 - Hospedagem: <code>Firebase Hosting</code>
-- Uso real: Integrações no perfil e portfólio do <code>GitHub</code>
+- Uso real: Integrações no Perfil e Portfólio do: &nbsp;<code>GitHub</code>
 
 ---
 
