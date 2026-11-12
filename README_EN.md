@@ -131,7 +131,7 @@
 <p align="center">
   <a href="#welcome">
     <img src=
-      "https://img.shields.io/badge/⬆%20VOLTAR%20AO%20TOPO-26FF00?style=flat&labelColor=111827&color=0A0F1C" alt="Voltar ao topo"
+      "https://img.shields.io/badge/⬆%20BACK%20TO%20TOP-26FF00?style=flat&labelColor=111827&color=0A0F1C" alt="Voltar ao topo"
     >
   </a>
 </p>
