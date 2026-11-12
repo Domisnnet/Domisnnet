@@ -29,7 +29,6 @@
   </em>
 </p>
 
----
 
 > 💡 Codificando ideias. Construindo o futuro.
 >
